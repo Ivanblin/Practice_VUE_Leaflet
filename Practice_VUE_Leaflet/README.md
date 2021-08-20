@@ -1,4 +1,4 @@
-# hello-world
+# Practice_VUE_Leaflet
 
 ## Project setup
 ```
